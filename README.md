@@ -1,1 +1,2 @@
 # statistic-analysis-AutoCoEv
+scriopt used to create diffrent Adjusted P-value method for autoCoEv (Petrov et al., 2020.). "AutoCoEv – a high-throughput in silico pipeline for revealing novel protein-protein interactions". 
